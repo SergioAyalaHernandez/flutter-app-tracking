@@ -33,7 +33,7 @@ class RecipeBook extends StatelessWidget {
             labelColor: Colors.white,
             unselectedLabelColor: Colors.white,
             tabs: [
-              Tab(icon: Icon(Icons.airport_shuttle_sharp), text: 'Home'),
+              Tab(icon: Icon(Icons.airport_shuttle_sharp), text: 'Despachos'),
               Tab(icon: Icon(Icons.map), text: 'Mapa'),
               Tab(icon: Icon(Icons.history), text: 'Historial'),
               Tab(icon: Icon(Icons.notifications), text: 'Alertas'),
